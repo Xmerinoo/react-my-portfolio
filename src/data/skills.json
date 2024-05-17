@@ -1,0 +1,27 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "node.png"
+    },
+    {
+      "title": "Adobe",
+      "imageSrc": "adobe-icon.png"
+    },
+    {
+      "title": "Procreate",
+      "imageSrc": "procreate-icon-1.png"
+    }
+   
+  ]

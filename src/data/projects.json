@@ -1,0 +1,23 @@
+[
+    {
+      "title": "PMC Nickelodeon Poster 2024",
+      "imageSrc": "nick-poster.JPG",
+      "description": "Made using the following: ",
+      "skills": ["Adobe", "Procreate"]
+     
+    },
+    {
+      "title": "Chris Svaely Speaker Poster 2024",
+      "imageSrc": "Chris-VGDC.JPG",
+      "description": "Made using the following: ",
+      "skills": ["Adobe", "Procreate"]
+     
+    },
+    {
+      "title": "Adobe T-Shirt Design",
+      "imageSrc": "Adobe-shirt-design.jpg",
+      "description": "Made using only: ",
+      "skills": ["Adobe"]
+    
+    }
+  ]

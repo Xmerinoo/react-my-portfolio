@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Advertiser",
+      "organisation": "Pencil Mileage Club",
+      "startDate": "May, 2023",
+      "endDate": "Present",
+      "experiences": ["Collaborated with a team of graphic designers to produce posters for club events. "],
+      "imageSrc": "PMC-icon.png"
+    },
+    {
+      "role": "Graphic Designer",
+      "organisation": "Video Game Development CLub",
+      "startDate": "January, 2024",
+      "endDate": "present",
+      "experiences": ["Made graphics for club events."],
+      "imageSrc": "VGDC-icon.PNG"
+    }
+   
+  ]
